@@ -1,0 +1,21 @@
+tx_id,ts,product_id,kind,qty,unit_price,note
+T001,2025-09-29 02:11:10,P020,purchase,13,84.3,Purchase of 13 units
+T002,2025-09-26 02:11:10,P007,purchase,10,372.48,Purchase of 10 units
+T003,2025-09-15 02:11:10,P004,purchase,8,62.5,Purchase of 8 units
+T004,2025-10-01 02:11:10,P002,purchase,8,191.97,Purchase of 8 units
+T005,2025-09-08 02:11:10,P001,sale,12,255.58,Sale of 12 units
+T006,2025-09-27 02:11:10,P017,sale,11,35.78,Sale of 11 units
+T007,2025-09-07 02:11:10,P016,sale,14,440.7,Sale of 14 units
+T008,2025-09-12 02:11:10,P012,purchase,7,2960.94,Purchase of 7 units
+T009,2025-09-28 02:11:10,P005,purchase,3,124.33,Purchase of 3 units
+T010,2025-09-23 02:11:10,P018,purchase,4,1959.19,Purchase of 4 units
+T011,2025-09-17 02:11:10,P009,sale,10,193.1,Sale of 10 units
+T012,2025-09-08 02:11:10,P015,sale,12,120.17,Sale of 12 units
+T013,2025-10-03 02:11:10,P015,sale,3,140.64,Sale of 3 units
+T014,2025-10-01 02:11:10,P008,sale,4,86.61,Sale of 4 units
+T015,2025-09-19 02:11:10,P010,sale,4,74.96,Sale of 4 units
+T016,2025-10-03 02:11:10,P012,sale,2,2643.38,Sale of 2 units
+T017,2025-09-09 02:11:10,P016,sale,8,486.76,Sale of 8 units
+T018,2025-09-19 02:11:10,P008,purchase,5,88.0,Purchase of 5 units
+T019,2025-09-24 02:11:10,P013,purchase,9,38.37,Purchase of 9 units
+T020,2025-09-25 02:11:10,P007,purchase,9,421.78,Purchase of 9 units
