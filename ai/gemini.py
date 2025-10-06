@@ -31,9 +31,9 @@ def answer_query(question:str, inv_df, top_df):
     Stock:
     {inv_df[['product_id', 'qty_on_stock', 'reorder_level']].to_dict(orient='records')}
     """
-    prompt = f"""Context: {context}
+    prompt = f"""Answer to the given question correctly, with reference to the context below. Only answer what is asked, do not add extra information.
+    Context: {context}
     Answer briefly: {question}
     """
-    
     resp = client.models.generate_content(model="gemini-2.5-flash", contents=prompt)
     return resp.text
